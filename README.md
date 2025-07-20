@@ -46,4 +46,4 @@
 
 ### 🔧 빌드 (g++ 사용)
 ```bash
-g++ -std=c++17 -o atm main.cpp
+g++ -std=c++17 -o atm project.cpp
